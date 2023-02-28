@@ -1,4 +1,4 @@
-// import static org.junit.Assert.assertThrows;
+import static org.junit.Assert.assertThrows;
 
 /**
  * If we want to make programs that "do something", we're going to need to create instructions that change
